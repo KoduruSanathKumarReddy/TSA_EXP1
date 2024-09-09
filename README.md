@@ -1,5 +1,10 @@
+Name: Koduru Sanath Kumar Reddy
+
+Register no: 212221240024
+
+Date:
 # Ex.No: 01A PLOT A TIME SERIES DATA
-###  Date: 
+
 
 # AIM:
 To Develop a python program to Plot a time series data for electricity production.
